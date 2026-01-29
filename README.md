@@ -4,7 +4,7 @@ Welcome to my professional portfolio showcasing my work in Product Management, D
 
 ## 🌐 Live Portfolio
 
-**View Portfolio:** [https://poojabn.github.io](https://poojabn.github.io)
+**View Portfolio:** https://poohx1224-bn.github.io/ 
 
 ---
 
